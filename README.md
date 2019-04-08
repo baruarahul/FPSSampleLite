@@ -33,16 +33,6 @@ Platforms    : Windows (client and server) and Linux (server only)
 ## Getting the project
 
 To get the project folder you need to clone the project.
-Note, that 
-
-> __IMPORTANT__: 
-> This project uses Git Large Files Support (LFS). Downloading a zip file using the green button on Github
-> **will not work**. You must clone the project with a version of git that has LFS.
-> You can download Git LFS here: https://git-lfs.github.com/.
-
-The project size is about 18GB (size of Assets folder). Your cloned repository
-will be almost double of that due to git state. If it is much smaller,
-you most likely did not have LFS when you cloned.
 
 ## Getting the right version of Unity
 
